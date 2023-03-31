@@ -7,3 +7,9 @@
 
 
 
+### My social
+
+
+ <a href="https://evgenyroslyakov.ru/"><img src="https://img.shields.io/badge/mysite-025a5b?style=for-the-badge&logo=&logoColor=white"/></a> 
+ <a href="https://telegram.me/bamserok"><img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/></a>   <a href="https://wa.me/79262890901"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>  
+
